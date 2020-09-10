@@ -1,0 +1,51 @@
+setpoint,flow,value,offset difference,status
+300,305,50,55,good condition
+300,305,50,55,good condition
+300,305,50,42,out of range
+300,305,50,45,good condition
+300,305,50,57,out of range
+300,305,50,56,out of range
+300,305,50,78,immediate action
+200,230,40,45,good condition
+250,258,42,43,excellent
+450,451,44,67,precaution to be taken
+310,456,20,55,Valve disrupted
+220,305,20,57,Valve disrupted
+200,305,17,65,New valve needed
+300,305,30,35,good condition
+400,305,35,49,out of range
+300,305,50,47,good condition
+300,305,50,45,good condition
+300,305,50,67,out of range
+300,230,80,45,Valve disrupted
+300,258,67,55,out of range
+300,451,65,55,out of range
+300,456,65,42,precaution to be taken
+300,305,67,45,precaution to be taken
+200,205,30,57,Valve disrupted
+250,256,40,56,out of range
+450,457,42,78,New valve needed
+310,320,44,45,excellent
+220,240,20,43,precaution to be taken
+200,250,20,67,New valve needed
+300,350,17,55,New valve needed
+400,450,30,57,Valve disrupted
+300,350,35,65,New valve needed
+500,550,50,35,out of range
+600,650,50,49,excellent
+350,357,50,47,good condition
+350,360,80,45,Valve disrupted
+200,250,67,67,excellent
+230,238,65,45,precaution to be taken
+450,450,65,55,out of range
+600,607,67,56,out of range
+400,450,30,45,out of range
+500,570,60,53,out of range
+320,321,65,35,Valve disrupted
+450,455,78,76,excellent
+350,358,45,57,out of range
+200,220,35,45,out of range
+450,460,40,36,good condition
+560,570,45,78,New valve needed
+450,450,44,48,good condition
+350,378,35,39,good condition
